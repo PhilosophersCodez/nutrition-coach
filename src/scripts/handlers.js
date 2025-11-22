@@ -1,5 +1,8 @@
 // src/scripts/handlers.js
 
+import { generateAIPlan } from './generator.js';
+import { renderFullNutritionPlan } from './renderer.js';
+
 export function setupEventHandlers() {
   document.getElementById('generateBtn').addEventListener('click', async () => {
     const generateBtn = document.getElementById('generateBtn');
