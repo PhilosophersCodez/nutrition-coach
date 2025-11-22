@@ -1,9 +1,10 @@
 # Nutrition Coach
 
-
 ## 🚀 Live Demo
 Check out the Nutrition Coach app here:  
 👉 [Nutrition Coach](https://philosopherscodez.github.io/nutrition-coach/)
+
+
 
 A privacy-first, client-side nutrition guidance and meal planning web application. Generate personalized meal plans based on your dietary preferences, allergies, and health goals—without sharing your data.
 
