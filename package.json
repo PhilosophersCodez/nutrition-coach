@@ -1,0 +1,22 @@
+{
+  "name": "nutrition-coach",
+  "version": "1.0.0",
+  "description": "A privacy-first nutrition guidance and meal planning application.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "nutrition",
+    "meal planning",
+    "health",
+    "wellness"
+  ],
+  "author": "PhilosophersCodez",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
